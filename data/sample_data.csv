@@ -1,0 +1,46 @@
+date,product,category,quantity,unit_price,revenue
+2026-01-05,ThinkPad X1 Carbon,Electronics,12,125000.0,1500000.0
+2026-01-08,Ergonomic Mesh Chair,Furniture,25,18500.0,462500.0
+2026-01-12,Dell UltraSharp 27 Monitor,Electronics,30,34990.0,1049700.0
+2026-01-15,Enterprise Cloud Suite Annual,Cloud Services,8,120000.0,960000.0
+2026-01-18,Logitech MX Master 3S,Electronics,45,8995.0,404775.0
+2026-01-22,Motorized Standing Desk,Furniture,14,32000.0,448000.0
+2026-01-25,LaserJet Pro MFP Printer,Office Equipment,10,28500.0,285000.0
+2026-01-29,Data Security Endpoint Pro,Enterprise Software,20,15000.0,300000.0
+2026-02-02,MacBook Pro 16 M3,Electronics,10,249900.0,2499000.0
+2026-02-05,Conference Room Audio Bar,Electronics,6,54000.0,324000.0
+2026-02-09,Acoustic Privacy Panel Set,Furniture,18,12500.0,225000.0
+2026-02-12,Cloud Storage Enterprise 10TB,Cloud Services,15,45000.0,675000.0
+2026-02-16,Document Shredder Heavy Duty,Office Equipment,8,16200.0,129600.0
+2026-02-20,CRM Automation License Pack,Enterprise Software,12,65000.0,780000.0
+2026-02-24,Mechanical Keyboard Pro,Electronics,50,6500.0,325000.0
+2026-02-27,Executive Boardroom Table,Furniture,3,85000.0,255000.0
+2026-03-03,Cisco Gigabit Enterprise Switch,Electronics,9,42000.0,378000.0
+2026-03-07,High-Capacity Toner Cartridge,Office Equipment,40,4800.0,192000.0
+2026-03-10,Managed Kubernetes Cluster,Cloud Services,5,95000.0,475000.0
+2026-03-14,Ergonomic Footrest & Mat,Furniture,35,3200.0,112000.0
+2026-03-18,iPad Pro Enterprise Kit,Electronics,16,89000.0,1424000.0
+2026-03-22,BI Analytics Platform Seats,Enterprise Software,25,22000.0,550000.0
+2026-03-26,Smart Whiteboard 65-inch,Office Equipment,5,115000.0,575000.0
+2026-03-30,Dual Monitor Arm Mount,Furniture,28,6800.0,190400.0
+2026-04-03,Noise-Cancelling Headset Pro,Electronics,60,14500.0,870000.0
+2026-04-07,DevOps Pipeline CI/CD Engine,Cloud Services,11,78000.0,858000.0
+2026-04-11,Steel Filing Cabinet 4-Drawer,Furniture,12,14500.0,174000.0
+2026-04-15,Network Attached Storage 48TB,Electronics,7,135000.0,945000.0
+2026-04-19,Thermal Label Printer,Office Equipment,15,19800.0,297000.0
+2026-04-23,Workflow Automation Suite,Enterprise Software,18,34000.0,612000.0
+2026-04-27,Air Purifier Commercial,Office Equipment,14,24000.0,336000.0
+2026-05-02,ThinkPad X1 Carbon,Electronics,12,125000.0,1500000.0
+2026-05-06,Multi-Cloud Backup Service,Cloud Services,10,52000.0,520000.0
+2026-05-10,Ergonomic Mesh Chair,Furniture,20,18500.0,370000.0
+2026-05-14,Webcam 4K Ultra Conference,Electronics,22,16500.0,363000.0
+2026-05-18,Project Management Enterprise,Enterprise Software,15,28000.0,420000.0
+2026-05-22,Heavy Duty Laminator,Office Equipment,10,11000.0,110000.0
+2026-05-26,Server Rack 42U Enclosure,Electronics,4,72000.0,288000.0
+2026-05-30,Virtual Desktop Infrastructure,Cloud Services,14,64000.0,896000.0
+2026-06-03,Conference Room Chairs 6-Pack,Furniture,8,48000.0,384000.0
+2026-06-07,Color Laser Multifunction Pro,Office Equipment,6,52000.0,312000.0
+2026-06-11,API Gateway Enterprise,Enterprise Software,7,98000.0,686000.0
+2026-06-15,UPS Battery Backup 3000VA,Electronics,12,45000.0,540000.0
+2026-06-19,Mobile Workstation Stand,Furniture,16,13500.0,216000.0
+2026-06-23,Logitech MX Master 3S,Electronics,30,8995.0,269850.0

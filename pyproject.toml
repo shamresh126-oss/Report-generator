@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "enterprise-report-generator"
+version = "1.0.0"
+description = "Enterprise Python Automation - Automated PDF Business Report Generator"
+readme = "README.md"
+authors = [{ name = "Enterprise Python Automation Team" }]
+license = { text = "MIT" }
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.28.0",
+    "pandas>=2.0.0",
+    "matplotlib>=3.7.0",
+    "reportlab>=4.0.0",
+    "schedule>=1.2.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-cov>=4.0.0",
+]
+
+[project.scripts]
+report-generator = "report_generator.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-ra -q --cov=src/report_generator --cov-report=term-missing"
+testpaths = ["tests"]
+pythonpath = ["src"]
