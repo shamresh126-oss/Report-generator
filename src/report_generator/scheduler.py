@@ -9,6 +9,7 @@ Enables recurring and periodic automation for business report generation:
 import time
 from typing import Callable, Optional
 
+# pyrefly: ignore [missing-import]
 import schedule
 
 from report_generator.logger import get_logger

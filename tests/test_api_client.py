@@ -2,6 +2,7 @@
 
 from unittest.mock import MagicMock, patch
 
+# pyrefly: ignore [missing-import]
 import pytest
 import requests
 from requests.exceptions import ConnectionError as ReqConnectionError

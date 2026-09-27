@@ -9,11 +9,15 @@ Generates publication-quality charts for executive business reporting:
 from pathlib import Path
 from typing import Dict, Union
 
+# pyrefly: ignore [missing-import]
 import matplotlib
 # Use headless backend for automation and server environments
 matplotlib.use("Agg")
+# pyrefly: ignore [missing-import]
 import matplotlib.dates as mdates
+# pyrefly: ignore [missing-import]
 import matplotlib.pyplot as plt
+# pyrefly: ignore [missing-import]
 import matplotlib.ticker as ticker
 import pandas as pd
 

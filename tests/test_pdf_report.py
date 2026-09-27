@@ -2,6 +2,7 @@
 
 from pathlib import Path
 
+# pyrefly: ignore [missing-import]
 import pytest
 
 from report_generator.charts import ChartGenerator
